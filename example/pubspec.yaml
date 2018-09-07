@@ -1,0 +1,109 @@
+name: example
+description: A new Flutter application.
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# Read more about versioning at semver.org.
+version: 1.0.0+1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^0.1.2
+
+  flutter_animation_image:
+    path : ../
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+# For information on the generic Dart part of this file, see the
+# following page: https://www.dartlang.org/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+   - images/0.gif
+   - images/1.gif
+   - images/2.gif
+   - images/3.gif
+   - images/4.gif
+   - images/5.gif
+   - images/6.gif
+   - images/7.gif
+   - images/8.gif
+   - images/9.gif
+   - images/10.gif
+   - images/11.gif
+   - images/12.gif
+   - images/13.gif
+   - images/14.gif
+   - images/15.gif
+   - images/16.gif
+   - images/17.gif
+   - images/18.gif
+   - images/19.gif
+   - images/20.gif
+   - images/21.gif
+   - images/22.gif
+   - images/23.gif
+   - images/24.gif
+   - images/25.gif
+   - images/26.gif
+   - images/27.gif
+   - images/28.gif
+   - images/29.gif
+   - images/30.gif
+   - images/31.gif
+   - images/32.gif
+   - images/33.gif
+   - images/34.gif
+   - images/35.gif
+   - images/36.gif
+   - images/37.gif
+   - images/38.gif
+   - images/39.gif
+   - images/40.gif
+   - images/41.gif
+
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.io/assets-and-images/#resolution-aware.
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.io/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.io/custom-fonts/#from-packages
